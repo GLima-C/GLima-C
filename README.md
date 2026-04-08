@@ -4,16 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLima-C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GLima-C&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 🎓 About Me
 - 🎓 Student of Science and Technology
 - 💻 Passionate about programming
