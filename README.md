@@ -24,7 +24,7 @@
 ## 🛠️ Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,vscode,github,azure" />
 </div>
 
 <br/>
