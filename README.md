@@ -1,24 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;My+name+is+Gabriel+Lima!;Student+of+Science+and+Technology;You're+Welcome!;" />
-</h1>
+# Gabriel Lima Cavalcante
 
-<br/>
+Data Analyst | SQL | Python | GIS
 
-## 🎓 About Me
-- 🎓 Student of Science and Technology
-- 💻 Passionate about programming
-- 🚀 Always learning new things
+📍 Jacareí, SP
 
-<br/>
+---
 
-## 🛠️ Technologies
+## About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,vscode,github,azure" />
-</div>
+Data professional with experience in analytics and geospatial analysis.
 
-<br/>
+- **SQL** — MySQL, PostgreSQL, query optimization
+- **Python** — Data processing, automation
+- **GIS** — Geospatial data analysis
+- **Azure** — Cloud fundamentals
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GLima-C&color=00D4AA&style=for-the-badge" alt="Profile Views" />
-</div>
+---
+
+## Experience
+
+**Mapzer** (2026) — Data & GIS Analysis
+
+**Poliedro Sistema** (2020-2023) — Support & Infrastructure
+
+---
+
+## Featured
+
+**[sql-portfolio](https://github.com/GLima-C/sql-portfolio)** — SQL queries: fundamentos, intermediário, avançado
+
+---
+
+## Tech
+
+SQL • Python • MySQL • PostgreSQL • Azure • Git
