@@ -1,25 +1,30 @@
-# Gabriel Lima Cavalcante de Souza
+# Olá! 👋 Sou Gabriel Lima
 
-Analista de suporte técnico e dados, em Jacareí/SP.
+### Suporte Técnico | Service Desk | Análise de Dados
 
-Tenho quase três anos de experiência em suporte técnico e Service Desk, com atendimento médio de 20 chamados por dia, diagnóstico de hardware e software em ambiente Windows e gestão de mais de 500 ativos de TI no GLPI. Em 2026, analisei dados operacionais e elaborei relatórios gerenciais.
+Sou profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de ativos, atendimento a usuários e análise de dados.
 
-## Projetos
+Atuei no **Poliedro Sistema**, realizando atendimento médio de 20 chamados técnicos diários, gestão de mais de 500 ativos de TI pelo GLPI e documentação de processos.
 
-- **Repositório de SQL:** consultas do básico ao avançado em cenários de negócio, com base de testes de 10 mil clientes e 50 mil pedidos. [Acesse aqui](https://github.com/GLima-C/sql-portfolio)
-- **Sistema web de certificação (FATEC):** cadastro de usuários, questionário e emissão automática de certificado. Tecnologias: HTML, CSS, JavaScript e PostgreSQL.
+Na **Mapzer Inteligência Artificial**, trabalhei com análise de mais de 33 mil registros mensais, acompanhamento de chamados em CRM, elaboração de relatórios gerenciais e treinamento de usuários.
 
-## Estudando
+### 🛠️ Competências técnicas
 
-- Power BI
-- Python para análise de dados
-- Fundamentos de Azure
+- **Suporte:** GLPI, Windows, hardware, software e atendimento a usuários
+- **Banco de dados:** SQL intermediário, MySQL e PostgreSQL
+- **Análise:** Excel avançado, relatórios e indicadores operacionais
+- **Desenvolvimento:** HTML, CSS e JavaScript
+- **Processos:** documentação técnica e procedimentos operacionais
 
-## Formação
+### 📚 Formação
 
-- Bacharelado em Ciência e Tecnologia, UNIFEI Itabira (previsão de conclusão em 2028)
+Bacharelado em Ciência e Tecnologia — UNIFEI (em andamento).
 
-## Contato
+### 🚀 Projetos
 
-- LinkedIn: linkedin.com/in/gabriellimacavalcante
-- E-mail: gabriel.wrktec@gmail.com
+Aqui compartilho projetos acadêmicos, exercícios de SQL e estudos de programação e análise de dados.
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriellimacavalcante/)
+- [GitHub](https://github.com/GLima-C)
